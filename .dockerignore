@@ -1,0 +1,12 @@
+target/
+.git
+.env
+.env.*
+powershell.cmd
+frontend/
+.settings/
+.classpath
+.project
+.vscode/
+.idea/
+HELP.md

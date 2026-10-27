@@ -31,3 +31,20 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Local scripts and tools ###
+powershell.cmd
+
+### Environment & Secrets ###
+.env
+.env.*
+!.env.example
+
+### Frontend ###
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+node_modules/
+dist/
+
